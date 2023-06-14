@@ -24,5 +24,335 @@ Mega Basket (2012–2015)
 <p>
     Jokić played youth basketball for Vojvodina Srbijagas,[10] drawing attention when he had achieved a total index rating greater than 50 in 2 consecutive games.[11] In December of 2012, Jokić signed a contract with Mega Vizura (now KK Mega Basket), although in the first season with the team he played mostly for their junior team in 2012–13.[12] At the age of 17, he appeared in 5 games of the Serbian League and averaged 1.8 points and 2 rebounds in 10.2 minutes per game.[13] He officially signed a 4-year contract in February 2013.[14] In the 2013–14 season, he saw more minutes on the court for the senior team. Over 25 Adriatic League games, he averaged 11.4 points, 6.4 rebounds and 2.5 assists per game. He also played 13 games with the team in the Serbian League and had similar production, averaging 10.9 points, 6 rebounds and 3.3 assists per game.
 </p>
+<ul>
+        <li>NBA champion (2023)</li>
+        <li>NBA Finals MVP (2023)</li>
+        <li>2× NBA Most Valuable Player (2021, 2022)</li>
+        <li>5× NBA All-Star (2019–2023)</li>
+        <li>NBA Western Conference Finals MVP (2023)</li>
+        <li>3× All-NBA First Team (2019, 2021, 2022)</li>
+        <li>2× All-NBA Second Team (2020, 2023)</li>
+        <li>NBA All-Rookie First Team (2016)</li>
+        <li>3× Serbian Player of the Year (2018, 2021, 2022)</li>
+        <li>ABA League MVP (2015)</li>
+        <li>ABA League Top Prospect (2015)</li>
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <th class="primary text PlayerGameLogs_primaryCol__bKTSD">Game Date</th>
+                <th class="text">Matchup</th>
+                <th class="">W/L</th>
+                <th class="">MIN</th>
+                <th class="">PTS</th>
+                <th class="">FGM</th>
+                <th class="">FGA</th>
+                <th class="">FG%</th>
+                <th class="">3PM</th>
+                <th class="">3PA</th>
+                <th class="">3P%</th>
+                <th class="">FTM</th>
+                <th class="">FTA</th>
+                <th class="">FT%</th>
+                <th class="">OREB</th>
+                <th class="">DREB</th>
+                <th class="">REB</th>
+                <th class="">AST</th>
+                <th class="">STL</th>
+                <th class="">BLK</th>
+                <th class="">TOV</th>
+                <th class="">PF</th>
+                <th class="">+/-</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="primary text PlayerGameLogs_primaryCol__bKTSD"><a
+                        href="/game/mia-vs-den-0042200405/box-score" class="Anchor_anchor__cSc3P t6"
+                        data-is-external="false" data-has-more="false" data-has-children="false">JUN 12, 2023</a></td>
+                <td class="text">DEN vs. MIA</td>
+                <td class="">W</td>
+                <td class="">42</td>
+                <td class="">28</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="6/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGM&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">12</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="7/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGA&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">16</a></td>
+                <td class="">75.0</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="9/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3M&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="10/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3A&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class="">33.3</td>
+                <td class="">3</td>
+                <td class="">5</td>
+                <td class="">60.0</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="15/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=OREB&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="16/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=DREB&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">15</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="17/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=REB&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">16</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="18/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=AST&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">4</a></td>
+                <td class="">0</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="20/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=BLK&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="21/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=TOV&amp;GameID=0042200405&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">4</a></td>
+                <td class="">3</td>
+                <td class="">12</td>
+            </tr>
+            <tr>
+                <td class="primary text PlayerGameLogs_primaryCol__bKTSD"><a
+                        href="/game/den-vs-mia-0042200404/box-score" class="Anchor_anchor__cSc3P t6"
+                        data-is-external="false" data-has-more="false" data-has-children="false">JUN 09, 2023</a></td>
+                <td class="text">DEN @ MIA</td>
+                <td class="">W</td>
+                <td class="">37</td>
+                <td class="">23</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="6/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGM&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">8</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="7/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGA&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">19</a></td>
+                <td class="">42.1</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="9/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3M&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="10/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3A&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">7</a></td>
+                <td class="">42.9</td>
+                <td class="">4</td>
+                <td class="">4</td>
+                <td class="">100</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="15/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=OREB&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">2</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="16/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=DREB&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">10</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="17/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=REB&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">12</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="18/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=AST&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">4</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="19/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=STL&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="20/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=BLK&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="21/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=TOV&amp;GameID=0042200404&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class="">5</td>
+                <td class="">9</td>
+            </tr>
+            <tr>
+                <td class="primary text PlayerGameLogs_primaryCol__bKTSD"><a
+                        href="/game/den-vs-mia-0042200403/box-score" class="Anchor_anchor__cSc3P t6"
+                        data-is-external="false" data-has-more="false" data-has-children="false">JUN 07, 2023</a></td>
+                <td class="text">DEN @ MIA</td>
+                <td class="">W</td>
+                <td class="">44</td>
+                <td class="">32</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="6/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGM&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">12</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="7/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGA&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">21</a></td>
+                <td class="">57.1</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="9/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3M&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="10/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3A&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">2</a></td>
+                <td class="">50.0</td>
+                <td class="">7</td>
+                <td class="">8</td>
+                <td class="">87.5</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="15/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=OREB&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="16/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=DREB&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">18</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="17/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=REB&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">21</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="18/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=AST&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">10</a></td>
+                <td class="">0</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="20/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=BLK&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">2</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="21/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=TOV&amp;GameID=0042200403&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class="">5</td>
+                <td class="">15</td>
+            </tr>
+            <tr>
+                <td class="primary text PlayerGameLogs_primaryCol__bKTSD"><a
+                        href="/game/mia-vs-den-0042200402/box-score" class="Anchor_anchor__cSc3P t6"
+                        data-is-external="false" data-has-more="false" data-has-children="false">JUN 04, 2023</a></td>
+                <td class="text">DEN vs. MIA</td>
+                <td class="">L</td>
+                <td class="">42</td>
+                <td class="">41</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="6/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGM&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">16</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="7/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGA&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">28</a></td>
+                <td class="">57.1</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="9/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3M&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">2</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="10/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3A&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">5</a></td>
+                <td class="">40.0</td>
+                <td class="">7</td>
+                <td class="">8</td>
+                <td class="">87.5</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="15/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=OREB&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">3</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="16/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=DREB&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">8</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="17/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=REB&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">11</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="18/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=AST&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">4</a></td>
+                <td class="">0</td>
+                <td class="">0</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="21/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=TOV&amp;GameID=0042200402&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">5</a></td>
+                <td class="">3</td>
+                <td class="">-11</td>
+            </tr>
+            <tr>
+                <td class="primary text PlayerGameLogs_primaryCol__bKTSD"><a
+                        href="/game/mia-vs-den-0042200401/box-score" class="Anchor_anchor__cSc3P t6"
+                        data-is-external="false" data-has-more="false" data-has-children="false">JUN 01, 2023</a></td>
+                <td class="text">DEN vs. MIA</td>
+                <td class="">W</td>
+                <td class="">40</td>
+                <td class="">27</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="6/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGM&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">8</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="7/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FGA&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">12</a></td>
+                <td class="">66.7</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="9/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3M&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="10/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=FG3A&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=3&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">2</a></td>
+                <td class="">50.0</td>
+                <td class="">10</td>
+                <td class="">12</td>
+                <td class="">83.3</td>
+                <td class="">0</td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="16/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=DREB&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">10</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="17/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=REB&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">10</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="18/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=AST&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">14</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="19/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=STL&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="20/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=BLK&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">1</a></td>
+                <td class=""><a data-track="video" data-id="nba:games:game-details-box-score:video-box-score"
+                        data-pos="21/23" data-premium="false"
+                        href="/stats/events/?CFID=&amp;CFPARAMS=&amp;ContextMeasure=TOV&amp;GameID=0042200401&amp;PlayerID=203999&amp;Season=2022-23&amp;SeasonType=Playoffs&amp;TeamID=&amp;flag=1&amp;sct=plot&amp;section=game"
+                        class="StatEventLink_sel__pAwmA">2</a></td>
+                <td class="">1</td>
+                <td class="">14</td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 </html>
