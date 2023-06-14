@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikola Jokić</title>
+</head>
+<body>
+    <h1>Nikola Jokić</h1>
+    <p>
+        Nikola Jokić (Serbian Cyrillic: Никола Јокић, pronounced [nǐkola jôkitɕ] (listen); born February 19, 1995) is a Serbian professional basketball player who is a center for the Denver Nuggets of the National Basketball Association (NBA). A five-time NBA All-Star, he has been named to the All-NBA Team on five occasions (including three first-team selections), and won the NBA Most Valuable Player Award for the 2020–21 and 2021–22 seasons.[1][2] He represents the Serbian national team with which he won a silver medal at the 2016 Summer Olympics.
+    </p>
+
+<p>
+    Nicknamed "The Joker",[3] Jokić was selected by the Nuggets in the second round of the 2014 NBA draft. He was voted to the NBA All-Rookie First Team in 2016. In the 2018–19 NBA season, while leading the Nuggets to the Western Conference Semifinals, he received his first All-Star and All-NBA First Team selections. The following season, he once again received All-Star and All-NBA honors, while leading his team to the Western Conference Finals. In the 2022–23 NBA season, he was awarded NBA Finals MVP after leading the Nuggets to their first-ever NBA championship. Jokić ranks among the top 10 on the all-time list of the NBA players with the most triple-doubles (regular season and playoffs), where he is the leading European player and center, and he holds the record for fastest triple-double (achieved in 14 minutes and 33 seconds).[4][5]
+</p>
+
+<h2>Early life</h2>
+<p>Jokić was born in the city of Sombor in the northern part of Serbia.[6] He grew up in a cramped two-bedroom apartment that housed him and his two brothers, both parents and grandmother.[7] His father was an agricultural engineer.[8] Jokić developed a love of basketball early in his life playing with his two older brothers, Strahinja and Nemanja, who were a decade older.[7] Both brothers played basketball in Serbia with Nemanja later playing college basketball for Detroit Mercy and C.W. Post and for Scranton/Wilkes-Barre Steamers in the Premier Basketball League. The brothers are friends with former NBA player Darko Miličić.[9] Jokić also loved horse racing as a child and competed as an amateur, a passion he still holds today.[6][3]</p>
+
+<h2>Professional career</h2>
+Mega Basket (2012–2015)
+<p>
+    Jokić played youth basketball for Vojvodina Srbijagas,[10] drawing attention when he had achieved a total index rating greater than 50 in 2 consecutive games.[11] In December of 2012, Jokić signed a contract with Mega Vizura (now KK Mega Basket), although in the first season with the team he played mostly for their junior team in 2012–13.[12] At the age of 17, he appeared in 5 games of the Serbian League and averaged 1.8 points and 2 rebounds in 10.2 minutes per game.[13] He officially signed a 4-year contract in February 2013.[14] In the 2013–14 season, he saw more minutes on the court for the senior team. Over 25 Adriatic League games, he averaged 11.4 points, 6.4 rebounds and 2.5 assists per game. He also played 13 games with the team in the Serbian League and had similar production, averaging 10.9 points, 6 rebounds and 3.3 assists per game.
+</p>
+</body>
+</html>
